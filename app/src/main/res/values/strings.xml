@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Вгадай число!</string>
+    <string name="behind">Недоліт!</string>
+    <string name="ahead">Переліт!</string>
+    <string name="hit">В ціль!</string>
+    <string name="input_value">Ввести значення</string>
+    <string name="play_more">Зіграти ще</string>
+    <string name="try_to_guess">Спробуйте вгадати число (1 – 100)</string>
+    <string name="error">Помилка введення!</string>
+    <string name="out_of_range">Число повинно належати інтервалу від 1 до 100!</string>
+</resources>
+
